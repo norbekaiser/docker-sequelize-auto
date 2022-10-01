@@ -1,4 +1,5 @@
 FROM node:lts-alpine
-npm install -g sequelize 
-npm install -g mysql2 sqlite3 tedious pg pg-hstore
-npm install sequelize-auto
+RUN npm install -g npm
+RUN npm install -g sequelize 
+RUN npm install -g mysql2 sqlite3 tedious pg pg-hstore
+RUN npm install -g sequelize-auto
