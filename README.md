@@ -16,5 +16,5 @@ Docker Alpine LTS Image with sequelize auto installed
 
 
 ### Docker Pull Command
-* ```docker pull norbnorb/vcs```
+* ```docker pull norbnorb/docker-sequelize-auto```
 * ```docker pull ghcr.io/norbekaiser/docker-sequelize-auto:latest```
