@@ -14,6 +14,8 @@ Docker Alpine LTS Image with sequelize auto installed
 * [dockerhub](https://hub.docker.com/r/norbnorb/sequelize-auto)
 * [github](https://ghcr.io/norbekaiser/docker-sequelize-auto)
 
+### Build Status
+![Docker Image Build](https://github.com/norbekaiser/docker-sequelize-auto/actions/workflows/docker-image.yml/badge.svg)
 
 ### Docker Pull Command
 * ```docker pull norbnorb/docker-sequelize-auto```
